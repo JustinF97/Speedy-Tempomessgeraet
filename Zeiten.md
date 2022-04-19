@@ -1,4 +1,4 @@
-Begin | Aufgabe | Deadline | Erledigt 
--------- | -------- | -------- | -------
-Inhalt   | Inhalt   | Inhalt   | Test
-Inhalt   | Inhalt   | Inhalt   | Test
+Aufgabe       | Begin      | Deadline  | Erledigt ✘ ✓
+-----------   | ---------- | --------- | -------
+Recherchieren | 19.04.22   | Keine     |  ✘ 
+Inhalt        | Inhalt     | Inhalt    | Test
