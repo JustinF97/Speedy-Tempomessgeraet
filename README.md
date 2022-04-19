@@ -1,4 +1,4 @@
-# Speed-Tempomessgerät
+# Speedy-Tempomessgerät
 
 [Justin Frommberger](https://github.com/JustinF97)
 
