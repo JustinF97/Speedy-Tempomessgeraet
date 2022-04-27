@@ -1,9 +1,8 @@
-Aufgabe       | Begin      | Deadline  | Erledigt ❌ ✅
------------   | ---------- | --------- | -------
-Recherchieren              | 19.04.22  | Keine     |  ❌ 
-Einkaufsliste              | 19.04.22  | Inhalt    |  ❌
-Projektmanagment Diagramme |  ?        | Inhalt    |  ❌
-Aufbau Planen              |  ?        | Inhalt    |  ❌
-System aufbauen            |  ?        | Inhalt    |  ❌
-Programmierung             |  ?        | Inhalt    |  ❌
-System Test                |  ?        | Inhalt    |  ❌
+Material            | Name                        |Menge          | ❌ ✅
+-----------         | ----------                  | ---------     | -------
+Arduino             | Arduino Uno                 | 1x            |  ❌ 
+Widerstände         | 200 & 60 Ohm                | 1x            |  ❌
+RGB LED-Streifen    | WS2812B (60 LEDs/Meter)     | Ca. 5 Meter   |  ❌
+Spannungsversorgung | Steckernetzteil  5V, 3A     | 1x            |  ❌
+Gehäuse             | MDF-Platten 100/70/?        | 3x            |  ❌
+Kabel               | 0,5 / 0,75mm^2              | 3 Meter       |  ❌
