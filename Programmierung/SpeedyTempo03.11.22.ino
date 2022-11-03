@@ -62,7 +62,7 @@ max = LINKS;
 max = RECHTS;
 
 LINKS  = max/10;
-RECHTS = max&10;
+RECHTS = max%10;
 
  switch (LINKS) {
   case 0:
